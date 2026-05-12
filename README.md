@@ -34,8 +34,11 @@ An engineer aiming to grow into a senior architect — someone who leads deep, n
 ### GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.hackclub.dev/api?username=Momoyeyu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160" alt="stats" />
-  <img src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=Momoyeyu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" alt="top-langs" />
+  <img src="https://streak-stats.demolab.com?user=Momoyeyu&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dn.j" height="180" alt="streak" />
+</p>
+
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Momoyeyu&theme=tokyo-night&hide_border=true&area=true&radius=8&custom_title=Contribution+Activity" alt="activity" />
 </p>
 
 ### Elsewhere
