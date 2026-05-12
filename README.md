@@ -34,8 +34,8 @@ An engineer aiming to grow into a senior architect — someone who leads deep, n
 ### GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Momoyeyu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Momoyeyu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" alt="top-langs" />
+  <img src="https://github-readme-stats.hackclub.dev/api?username=Momoyeyu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160" alt="stats" />
+  <img src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=Momoyeyu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" alt="top-langs" />
 </p>
 
 ### Elsewhere
